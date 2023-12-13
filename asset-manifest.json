@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GYM/static/css/main.c8c94399.css",
-    "main.js": "/GYM/static/js/main.506a5fba.js",
+    "main.js": "/GYM/static/js/main.0585b1bd.js",
     "static/js/787.8a220983.chunk.js": "/GYM/static/js/787.8a220983.chunk.js",
     "static/media/slider3.png": "/GYM/static/media/slider3.198ea0f8f49970f144bd.png",
     "static/media/slider2.png": "/GYM/static/media/slider2.f0be93aedbaf1341cf72.png",
@@ -20,11 +20,11 @@
     "static/media/play video.svg": "/GYM/static/media/play video.16ecb205408a978ee6321f928665ad16.svg",
     "static/media/Vector.svg": "/GYM/static/media/Vector.b9336aead0ea472c98d990a87d057c03.svg",
     "main.c8c94399.css.map": "/GYM/static/css/main.c8c94399.css.map",
-    "main.506a5fba.js.map": "/GYM/static/js/main.506a5fba.js.map",
+    "main.0585b1bd.js.map": "/GYM/static/js/main.0585b1bd.js.map",
     "787.8a220983.chunk.js.map": "/GYM/static/js/787.8a220983.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8c94399.css",
-    "static/js/main.506a5fba.js"
+    "static/js/main.0585b1bd.js"
   ]
 }
